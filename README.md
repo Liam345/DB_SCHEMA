@@ -47,7 +47,7 @@ You and your team get to choose between Convex or Supabase (or suggest another o
 
 Feel free to explore both options, research online, or even try small tests to see what works. The goal is to understand your tools and make smart decisions.
 
-** Below is the Convex Schema for our existing web application for your reference:**
+**Below is the Convex Schema for our existing web application for your reference:**
 
 ## Tables Overview
 
